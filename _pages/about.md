@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently pursuing a Master's degree at Paris-Saclay University, specializing in Robotics and Computer Vision. This academic year, I enrolled in the ATSI master's program, a collaboration between ENS Paris-Saclay and CentralSupélec. This program is centered on advanced topics such as robot control, image processing, computer vision, and artificial intelligence.
+Previously, I got my engineering degree from Arts Et Métiers ParisTech, one of France's leading engineering schools. During my studies there, I specialized in robotics and artificial intelligence.
+I am now actively seeking a Ph.D. opportunity that aligns with my interests in robot control, robot perception, and robot intelligence like reinforcement learning. 
 
 A data-driven personal website
 ======
