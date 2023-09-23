@@ -14,7 +14,25 @@ Education
 * B.S. in China, Hubei University of Technology, 2017-2021 
 * M.S. in Frace, Arts et Métiers ParisTech, 2021-2023
 * M.S. in France Paris-saclay University, 2023-2024
+  
+RESEARCH INTERESTS
+======
+Robot Learning, Deep Reinforcement Learning, Learning from Demonstration, Simulation-to-Reality (Sim2Real), Human-Robot Interaction, Impedance Control, Optimal Control for Robotics
 
+Professional Skills
+======
+* Theory
+  * Estimation, Optimal control for robotics, Deep Reinforcement Learning, Imitation Learning,  Computer Vision (Variable), Impedance Control and Admittance Control Theory
+* Languages
+  * French - C1
+  * English - B2
+* Programming:
+  * Python; C++; C#; MATLAB
+* Software
+  *PyTorch, TensorFlow, ROS, PyBullet, Unity 3D, CoppeliaSim, SolidWorks, MUJOCO
+* Other
+  *Git; Linux; LaTex
+   
 Work experience
 ======
 * Summer 2015: Research Assistant
