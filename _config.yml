@@ -6,12 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-FR"
-title                    : "SU SICHEN / Acadamic Web"
+locale                   : "en-US"
+title                    : "SU SICHEN"
 title_separator          : "-"
-name                     : &name "Sichen"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "SU Sichen"
+description              : &description "Master Student at CentralSupélec Paris-Saclay University"
+url                      : https://sichenpa221.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SichenPa221/SichenWeb.github.io"
 teaser                   : filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "SU Sichen"
-  avatar           : "images/profile.png"
+  avatar           : "Image4-min.png"
   bio              : "Master Student Major in Robot, Computer Vision, AI "
   location         : "France Paris"
   employer         :
