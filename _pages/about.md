@@ -9,8 +9,10 @@ redirect_from:
 ---
 
 I am currently pursuing a Master's degree at Paris-Saclay University, specializing in Robotics and Computer Vision. This academic year, I enrolled in the ATSI master's program, a collaboration between ENS Paris-Saclay and CentralSupélec. This program is centered on advanced topics such as robot control, image processing, computer vision, and artificial intelligence.
+
 Previously, I got my engineering degree from Arts Et Métiers ParisTech, one of France's leading engineering schools. During my studies there, I specialized in robotics and artificial intelligence.
-I am now actively seeking a Ph.D. opportunity that aligns with my interests in robot control, robot perception, and robot intelligence like reinforcement learning. 
+
+I am now seeking a Ph.D. opportunity that aligns with my interests in robot control, robot perception, and robot intelligence like reinforcement learning. 
 
 A data-driven personal website
 ======
