@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a Master's degree at Paris-Saclay University, specializing in Robotics and Computer Vision. This academic year, I enrolled in the ATSI master's program, a collaboration between ENS Paris-Saclay and CentralSupélec. This program is centered on advanced topics such as robot control, image processing, computer vision, and artificial intelligence.
+I am currently pursuing a Master's degree at Paris-Saclay University, majoring in Robotics and Computer Vision. This year, I enrolled in the ATSI master's program that collaborates with ENS Paris-Saclay and CentralSupélec. This program is centered on advanced topics such as robot control, image processing, computer vision, and artificial intelligence.
 
-Previously, I got my engineering degree from Arts Et Métiers ParisTech, one of France's leading engineering schools. During my studies there, I specialized in robotics and artificial intelligence.
+Previously, I obtained my engineering degree from Arts Et Métiers ParisTech, one of the leading engineering schools in France, specialising in robotics and artificial intelligence. This summer, I did my internship at L'Oréal Innovation and Recherche, where I used a visual servo solution to control a robot to apply make-up to human faces, and an RL solution to improve the robot's performance. 
 
-I am now seeking a Ph.D. opportunity that aligns with my interests in robot control, robot perception, and robot intelligence like reinforcement learning. 
+I'm now looking for a PhD opportunity in Robotics, I'm interested in improving the agility and dexterity of robots through the integration of optimal control and reinforcement learning. This involves designing algorithms for efficient control and optimisation, and exploring their theoretical foundations and real-world applications. I'm also interested in robot perception and robot-human interaction, which can make robots more integrated into human society. My goal is to advance the field of robotics and find new solutions to its challenges.
 
 For more info
 ------
