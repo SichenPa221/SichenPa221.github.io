@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in China, GitHub University, 2012
-* M.S. in Frace, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in China, Hubei University of Technology, 2017-2021 
+* M.S. in Frace, Arts et Métiers ParisTech, 2021-2023
+* M.S. in France Paris-saclay University, 2023-2024
 
 Work experience
 ======
