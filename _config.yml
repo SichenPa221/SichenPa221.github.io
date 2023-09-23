@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "SU Sichen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location France Paris"
-  employer         :
+  bio              : "Master Student Major in Robot Control, Computer Vision, AI "
+  location         : "France Paris"
+  employer         : "Paris-Saclay University | CentraleSupélec" 
   pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
