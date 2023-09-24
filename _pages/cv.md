@@ -12,17 +12,17 @@ redirect_from:
 Education
 ======
 * B.S. in China, Hubei University of Technology, 2017-2021 
-* M.S. in Frace, Arts et Métiers ParisTech, 2021-2023
-* M.S. in France Paris-saclay University, 2023-2024
+* M.S. in France, Arts et Métiers ParisTech, 2021-2023
+* M.S. in France, Paris-saclay University, 2023-2024
   
 RESEARCH INTERESTS
 ======
 Robot Learning, Deep Reinforcement Learning, Learning from Demonstration, Simulation-to-Reality (Sim2Real), Human-Robot Interaction, Impedance Control, Optimal Control for Robotics
 
-Professional Skills
+Professional Skill
 ======
 * Theory
-  * Estimation, Optimal control for robotics, Deep Reinforcement Learning, Imitation Learning,  Computer Vision (Variable), Impedance Control and Admittance Control Theory
+  * Estimation, Optimal control for robotics, Deep Reinforcement Learning, Imitation Learning,  Computer Vision, Impedance Control and Admittance Control Theory
 * Languages
   * French - C1
   * English - B2
@@ -33,17 +33,18 @@ Professional Skills
 * Other
   *Git; Linux; LaTex
    
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Research Project: Assistive Robotics for Human Face Makeup**
+  * L’Oréal Recherche & Innovation Center
+  * Jan,2023-Jul,2023, research intern
+  * Duties included:  Developing a simulation environment for robots with multiple cameras and implement face detection and automatic robot tracking using Python, C++, and ROS
+  * Supervisor: Dr.BA Sileye, Dr.LI Tao, Dr.BICHON Jean-Christophe
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Dr.BA Sileye, Dr.LI Tao, Dr.BICHON Jean-Christophe
   
 Skills
 ======
