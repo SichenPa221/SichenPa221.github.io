@@ -38,12 +38,21 @@ Research experience
 * **Research Project: Assistive Robotics for Human Face Makeup**
   * L’Oréal Recherche & Innovation Center
   * Jan,2023-Jul,2023, research intern
-  * Duties included:  Developing a simulation environment for robots with multiple cameras and implement face detection and automatic robot tracking using Python, C++, and ROS
+  * Duties included:
+    * Developed a robot simulation environment for makeup application using ROS and Gazebo.
+    * Implemented autonomous tracking of human faces by the robot, utilizing Python, C++, and ROS.
+    * Developed a deep reinforcement learning framework for the robot using TensorFlow and OpenAI Gym.
+    * Validated the robot's tracking and makeup application modules with the UR5e robot.
   * Supervisor: Dr.BA Sileye, Dr.LI Tao, Dr.BICHON Jean-Christophe
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* **Research Project: Frugal and adaptive AI for flexible industrial Robotics**
+  * Arts et Métiers ParisTech (ENSAM) 
+  * Sep, 2022-Jan, 2023; academic projects
+  * Duties included:
+    * Developed a robot simulation environment for makeup application using ROS and Gazebo.
+    * Implemented autonomous tracking of human faces by the robot, utilizing Python, C++, and ROS.
+    * Developed a deep reinforcement learning framework for the robot using TensorFlow and OpenAI Gym.
+    * Validated the robot's tracking and makeup application modules with the UR5e robot.
   * Supervisor: Dr.BA Sileye, Dr.LI Tao, Dr.BICHON Jean-Christophe
   
 Skills
