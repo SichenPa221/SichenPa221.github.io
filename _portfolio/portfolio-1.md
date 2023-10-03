@@ -1,6 +1,6 @@
 ---
 title:  "Assistive robotics for human face makeup"
-excerpt: "Master Research internship 1<br/><img src='/images/ MURA robot.jpg'>"
+excerpt: "Master Research internship 1<br /> <br /> **Overview**: <br /> <br/><img src='/images/ MURA robot.jpg'/>"
 collection: portfolio
 ---
 
