@@ -9,8 +9,9 @@ paperurl: 'https://github.com/SichenPa221/SichenWeb.github.io/blob/master/files/
 citation: 'SU SICHEN, (2023). &quot;Développement du robot assistant pour le maquillage.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-This paper is about the number 1. The number 2 is left for future work.
+This paper discusses the topic "number 1". Further discussions on "number 2" are reserved for future work.
 
 [Download paper here](https://github.com/SichenPa221/SichenWeb.github.io/blob/master/files/SFE_Report.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: SU SICHEN. (2023). "Développement du robot assistant pour le maquillage." <i>Journal 1</i>. 1(1).
+
