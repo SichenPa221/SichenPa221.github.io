@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a Master's degree at **Paris-Saclay University**, **majoring in Control and Control, Signal and Image Processing**. This year, I enrolled in the ATSI master's program that collaborates with **ENS Paris-Saclay** and **CentralSupélec**. This program is centered on advanced topics such as robot control, image processing, computer vision, and artificial intelligence.
+I am currently pursuing a Master's degree at **Paris-Saclay University**, **majoring in Control, Signal and Image Processing**. This year, I enrolled in the ATSI master's program that collaborates with **ENS Paris-Saclay** and **CentralSupélec**. This program is centered on advanced topics such as robot control, image processing, computer vision, and artificial intelligence.
 
 Previously, I obtained my engineering degree from **Arts Et Métiers ParisTech**, one of the leading engineering schools in France, specializing in **robotics and artificial intelligence**. This summer, I did my internship at L'Oréal Innovation and Recherche, where I used a visual servo solution to control a robot to apply makeup to human faces, and an RL solution to improve the robot's performance. 
 
