@@ -1,6 +1,6 @@
 ---
 title: "Make-Up Robotic Arm"
-excerpt: "Short description of portfolio item number 1<br/><img src='/SichenWeb.github.io/images/mura/mura_project_1.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/SichenWeb.github.io/images/mura/mura_project_1.png',width="300">"
 collection: portfolio
 ---
 <div align="center">
