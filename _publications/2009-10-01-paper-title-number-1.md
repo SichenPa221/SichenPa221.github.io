@@ -34,6 +34,7 @@ Currently, the makeup application models are based on inverse kinematics, which 
 Overall, the MURA project represents a significant advancement in the field of robotic makeup application, promising standardized and accessible makeup solutions for various user groups. The combination of robotic systems, computer vision, computer graphics, and machine learning foster an interdisciplinary approach that paves the way for future developments in this domain. 
 </p>
 
+
 [Download paper here]('https://github.com/SichenPa221/SichenWeb.github.io/blob/master/files/SFE_Report.pdf')
 
 Recommended citation: SU SICHEN. (2023). "Développement du robot assistant pour le maquillage." <i>Journal 1</i>. 1(1).
