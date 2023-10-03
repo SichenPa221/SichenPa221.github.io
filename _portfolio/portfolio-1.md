@@ -5,7 +5,7 @@ excerpt: "The MURA (Make Up with Robotic Arm) project focuses on developing adva
 collection: portfolio
 ---
 <div align="center">
-  <img src="/images/mura/ur5_robot.jpg" width="300">
+  <img src="/SichenWeb.github.io/images/mura/ur5_robot.jpg" width="300">
   <br>
   <p>Real MURA robot system work condition</p>
 </div>
