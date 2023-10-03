@@ -5,7 +5,6 @@ excerpt: "**Abstract**: Imitation Learning(IL) algorithms have shown great succe
 <br />
 **Overview**:
 <br />
-
 <br />![Robot Manipulator](/SichenWeb.github.io/images/image4-min.png)
 
 collection: portfolio
