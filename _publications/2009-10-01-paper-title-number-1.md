@@ -5,7 +5,7 @@ permalink: /publication/2023-7-15-Développement du robot assistant pour le maqu
 excerpt: 'Passed the ENSAM ParisTech school defenses and was included in the laboratory.'
 date: 2023-07-15
 venue: 'Arts et Métiers ParisTech library'
-paperurl: 'https://github.com/SichenPa221/SichenWeb.github.io/blob/master/files/SFE_Report.pdf'
+paperurl: 'https://github.com/SichenPa221/SichenPa221.github.io/blob/master/files/SFE_Report.pdf'
 citation: 'SU SICHEN, (2023). &quot;Développement du robot assistant pour le maquillage.&quot; <i>Journal 1</i>. 1(1).'
 ---
 **Abstract**
@@ -44,7 +44,7 @@ Overall, the MURA project represents a significant advancement in the field of r
 
 </div>
 
-[Download paper here](https://github.com/SichenPa221/SichenWeb.github.io/blob/master/files/SFE_Report.pdf)
+[Download paper here](https://github.com/SichenPa221/SichenPa221.github.io/blob/master/files/SFE_Report.pdf)
 
 Recommended citation: SU SICHEN. (2023). "Développement du robot assistant pour le maquillage." <i>Journal 1</i>. 1(1).
 
