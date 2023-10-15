@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+title: Bio
 excerpt: "Bio"
 author_profile: true
 redirect_from: 
@@ -28,4 +28,4 @@ I'm now looking for <strong>a Ph.D. opportunity in Robotics</strong>, I'm intere
 
 For more info
 ------
-More info about me can be found in [the github](https://github.com/SichenPa221).
+More info about me can be found in the [github](https://github.com/SichenPa221).
