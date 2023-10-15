@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Bio"
+excerpt: "Bion"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,7 @@ redirect_from:
 </style>
 
 <p class="justified-text">
-I am currently pursuing a Master's degree at <strong>Paris-Saclay University</strong>, <strong>majoring in Control, Signal and Image Processing</strong>. This year, I enrolled in the ATSI master's program that collaborates with <strong>ENS Paris-Saclay</strong> and <strong>CentralSupélec</strong>. This program is centered on advanced topics such as robot control, image processing, computer vision, and artificial intelligence.
+I am currently pursuing a Master's degree at <strong>CentraleSupélec-Paris-Saclay University</strong>, <strong>majoring in Control, Signal and Image Processing</strong>. This year, I enrolled in the ATSI master's program that collaborates with <strong>ENS Paris-Saclay</strong>, and <strong>IOGS ParisTech</strong>. This program is centered on advanced topics such as robot control, image processing, computer vision, and artificial intelligence.
 </p>
 
 <p class="justified-text">
