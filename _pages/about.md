@@ -13,9 +13,7 @@ redirect_from:
     }
 </style>
 
-<p class="justified-text">
-I am currently pursuing a Master's degree at <strong>CentraleSupélec-Paris-Saclay University</strong>. This year, I enrolled in the <strongW>ATSI master's program(Control, Signal and Image Processing)<strongW>, a collaborative effort between <strong>ENS Paris-Saclay</strong>, <strong>IOGS ParisTech</strong>, and <strong>CentraleSupélec</strong>. The curriculum is focused on advanced subjects including robot control, image processing, computer vision, and artificial intelligence.
-</p>
+I am currently pursuing a [Master's degree](https://www.master-atsi.universite-paris-saclay.fr) at <strong>CentraleSupélec-Paris-Saclay University</strong>. This year, I enrolled in the <strongW>ATSI master's program(Control, Signal and Image Processing)<strongW>, a collaborative effort between <strong>ENS Paris-Saclay</strong>, <strong>IOGS ParisTech</strong>, and <strong>CentraleSupélec</strong>. The curriculum is focused on advanced subjects including robot control, image processing, computer vision, and artificial intelligence.
 
 
 <p class="justified-text">
