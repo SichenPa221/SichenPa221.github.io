@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently pursuing a [Master's degree](https://www.master-atsi.universite-paris-saclay.fr) at <strong>CentraleSupélec-Paris-Saclay University</strong>. This year, I enrolled in the <strongW>ATSI master's program(Control, Signal and Image Processing)<strongW>, a collaborative effort between <strong>ENS Paris-Saclay</strong>, <strong>IOGS ParisTech</strong>, and <strong>CentraleSupélec</strong>. The curriculum is focused on advanced subjects including robot control, image processing, computer vision, and artificial intelligence.
+I am currently pursuing a Master's degree at <strong>CentraleSupélec-Paris-Saclay University</strong>. This year, I enrolled in the [ATSI master's program](https://www.master-atsi.universite-paris-saclay.fr)(Control, Signal and Image Processing), a collaborative effort between <strong>ENS Paris-Saclay</strong>, <strong>IOGS ParisTech</strong>, and <strong>CentraleSupélec</strong>. The curriculum is focused on advanced subjects including robot control, image processing, computer vision, and artificial intelligence.
 
 Previously, I obtained my engineering degree from <strong>Arts Et Métiers ParisTech</strong>, one of the leading engineering schools in France, specializing in <strong>robotics and artificial intelligence</strong>. This summer, I did my internship at L'Oréal Innovation and Recherche, where I used a visual servo solution to control a robot to apply makeup to human faces, and an RL solution to improve the robot's performance. 
 
