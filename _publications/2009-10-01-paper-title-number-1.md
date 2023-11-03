@@ -1,5 +1,5 @@
 ---
-title: "Développement du robot assistant pour le maquillage"
+title: "Development of a Robotic Arm for precision Makeup Application on the Human Face"
 collection: publications
 permalink: /publication/2023-7-15-Développement du robot assistant pour le maquillage
 excerpt: 'Passed the ENSAM ParisTech school defenses and was included in the laboratory.'
@@ -45,6 +45,6 @@ Overall, the MURA project represents a significant advancement in the field of r
 </div>
 
 [Download paper here](https://github.com/SichenPa221/SichenPa221.github.io/blob/master/files/SFE_Report.pdf)
-
+[Download English_paper here](https://github.com/SichenPa221/SichenPa221.github.io/blob/master/files/Master_thesis_English.pdf)
 Recommended citation: SU SICHEN. (2023). "Développement du robot assistant pour le maquillage." <i>Journal 1</i>. 1(1).
 
