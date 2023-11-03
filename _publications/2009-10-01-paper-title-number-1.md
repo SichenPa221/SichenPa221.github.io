@@ -6,6 +6,7 @@ excerpt: 'Passed the ENSAM ParisTech school defenses and was included in the lab
 date: 2023-07-15
 venue: 'Arts et Métiers ParisTech library'
 paperurl: 'https://github.com/SichenPa221/SichenPa221.github.io/blob/master/files/SFE_Report.pdf'
+'https://github.com/SichenPa221/SichenPa221.github.io/blob/master/files/Master thesis English version.pdf'
 citation: 'SU SICHEN, (2023). &quot;Développement du robot assistant pour le maquillage.&quot; <i>Journal 1</i>. 1(1).'
 ---
 **Abstract**
