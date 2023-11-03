@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in China, Hubei University of Technology, 2017-2021 
-* M.S. in France, Arts et Métiers ParisTech, 2021-2023
-* M.S. in France, Paris-saclay University, 2023-2024
+* MSe. in France, Arts et Métiers ParisTech, 2021-2023
+* MSc. in France, Paris-saclay University, 2023-2024
   
 RESEARCH INTERESTS
 ======
