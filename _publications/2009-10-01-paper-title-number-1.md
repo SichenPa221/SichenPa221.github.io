@@ -46,6 +46,11 @@ Overall, the MURA project represents a significant advancement in the field of r
 
 <div class="download-links">
   <a href="{{ page.paperurl }}" target="_blank" aria-label="Download the SFE Report PDF">Download paper</a>
+  <a href="[https://github.com/SichenPa221/SichenPa221.github.io/raw/master/files/SFE_Report.pdf]" target="_blank" aria-label="Télécharger la version françai">Download English paper</a>
+</div>
+
+<div class="download-links">
+  <a href="{{ page.paperurl }}" target="_blank" aria-label="Download the SFE Report PDF">Download paper</a>
   <a href="https://github.com/SichenPa221/SichenPa221.github.io/raw/master/files/Master_thesis_English.pdf" target="_blank" aria-label="Download the Master Thesis in English PDF">Download English paper</a>
 </div>
 
