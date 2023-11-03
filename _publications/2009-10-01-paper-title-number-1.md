@@ -44,15 +44,18 @@ Overall, the MURA project represents a significant advancement in the field of r
 
 </div>
 
-<div class="download-links_1">
+<!-- Download Links French Version -->
+<div class="download-links download-links_1">
   <a href="{{ page.paperurl }}" target="_blank" aria-label="Download the SFE Report PDF">Download paper</a>
-  <a href="[https://github.com/SichenPa221/SichenPa221.github.io/raw/master/files/SFE_Report.pdf]" target="_blank" aria-label="Télécharger la version françai">télécharger la version françai</a>
+  <a href="https://github.com/SichenPa221/SichenPa221.github.io/raw/master/files/SFE_Report.pdf" target="_blank" aria-label="Télécharger la version française">Télécharger la version française</a>
 </div>
 
-<div class="download-links">
+<!-- Download Links English Version -->
+<div class="download-links download-links_2">
   <a href="{{ page.paperurl }}" target="_blank" aria-label="Download the SFE Report PDF">Download paper</a>
   <a href="https://github.com/SichenPa221/SichenPa221.github.io/raw/master/files/Master_thesis_English.pdf" target="_blank" aria-label="Download the Master Thesis in English PDF">Download English paper</a>
 </div>
+
 
 [Download English_paper here](https://github.com/SichenPa221/SichenPa221.github.io/blob/master/files/Master_thesis_English.pdf)
 Recommended citation: SU SICHEN. (2023). "Développement du robot assistant pour le maquillage." <i>Journal 1</i>.
